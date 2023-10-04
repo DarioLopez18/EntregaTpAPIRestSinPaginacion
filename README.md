@@ -70,6 +70,10 @@
 * Un archivo generado con postman para probar TU API - Una colleción
 * El trabajo se entrega en un Repo en la nube, con todo lo solicitado
 
+# Deploy
+
+https://apirestsinpaginaciontp.onrender.com
+
 # Tecnologías utilizadas💻:
 
 * ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
